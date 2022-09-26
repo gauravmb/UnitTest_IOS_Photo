@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3EF2C8AF-593A-43CD-9DF2-365F5FE2C142"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24CB6B6B-1D62-485B-8589-C0939730ED73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingDemoTests/Network/SignupWebServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "24CB6B6B-1D62-485B-8589-C0939730ED73 - 75fae81edb9af675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UnitTestingDemo.SignupResponseModel&gt;, Swift.Optional&lt;UnitTestingDemo.SignupError&gt;) -&gt; () in UnitTestingDemoTests.SignupWebServiceTests.testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess() -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Network/SignupWebServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "24CB6B6B-1D62-485B-8589-C0939730ED73 - 75fae81edb9af675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UnitTestingDemo.SignupResponseModel&gt;, Swift.Optional&lt;UnitTestingDemo.SignupError&gt;) -&gt; () in UnitTestingDemoTests.SignupWebServiceTests.testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess() -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Network/SignupWebServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "24CB6B6B-1D62-485B-8589-C0939730ED73 - 75fae81edb9af675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UnitTestingDemo.SignupResponseModel&gt;, Swift.Optional&lt;UnitTestingDemo.SignupError&gt;) -&gt; () in UnitTestingDemoTests.SignupWebServiceTests.testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess() -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Network/SignupWebServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "24CB6B6B-1D62-485B-8589-C0939730ED73 - 75fae81edb9af675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;UnitTestingDemo.SignupResponseModel&gt;, Swift.Optional&lt;UnitTestingDemo.SignupError&gt;) -&gt; () in UnitTestingDemoTests.SignupWebServiceTests.testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess() -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Network/SignupWebServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35C915CC-A60A-4918-A45A-1C3511E13B80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingDemoTests/Signup/Network/SignupWebServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testSignupWebService_WhenGivenSuccessfullResponse_ReturnsSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "162C0CDC-E977-47CC-BFA4-A098341C203D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingDemoTests/Signup/Controllers/SignupViewControllerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "testSignupViewController_WhenUserTapSignupButton_HasAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "162C0CDC-E977-47CC-BFA4-A098341C203D - 247381a4ebec42bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingDemoTests.SignupViewControllerTest.testSignupViewController_WhenUserTapSignupButton_HasAction() throws -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Signup/Controllers/SignupViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "162C0CDC-E977-47CC-BFA4-A098341C203D - 247381a4ebec42bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingDemoTests.SignupViewControllerTest.testSignupViewController_WhenUserTapSignupButton_HasAction() throws -&gt; ()"
+                  moduleName = "UnitTestingDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m1092828/Documents/POCs/UnitTestingDemo/UnitTestingDemoTests/Signup/Controllers/SignupViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
